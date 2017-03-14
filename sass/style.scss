@@ -1,0 +1,13 @@
+/* Starter */
+@import "starter/info";
+@import "starter/normalize";
+@import "starter/variables";
+@import "starter/grid";
+
+/* Components */
+@import "components/header";
+
+
+body {
+    background: #ddd;
+}
